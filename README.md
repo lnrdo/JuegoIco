@@ -1,3 +1,3 @@
-# JuegoIco
+# Juegos Ico
 
-Para jugar esta version de Snake se necesita una PC Con Windows
+Juegos Basados en el Lenguaje de Programacion C
