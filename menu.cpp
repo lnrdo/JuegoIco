@@ -31,7 +31,7 @@ int main (void) {
             printf("\n\tSelecciona el juego que deseas iniciar:\t\n");
             scanf( "%i", &opcion );
 
-        } while ( opcion < 1 || opcion > 5 );
+        } while ( opcion < 1 || opcion > 3 );
       
 
         switch ( opcion )
